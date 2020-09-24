@@ -18,7 +18,7 @@
 Require this package with composer using the following command:
 
 ```shell
-$ composer require avto-dev/json-rpc-laravel "^2.0"
+$ composer require dscmall/laravel-json-rpc "^2.0"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).

@@ -1,5 +1,5 @@
 {
-    "name": "avto-dev/json-rpc-laravel",
+    "name": "dscmall/laravel-json-rpc",
     "description": "Json Rpc package",
     "keywords": [
         "json",
@@ -60,9 +60,5 @@
             "@phpstan",
             "@phpunit-cover"
         ]
-    },
-    "support": {
-        "issues": "https://github.com/avto-dev/json-rpc-laravel/issues",
-        "source": "https://github.com/avto-dev/json-rpc-laravel"
     }
 }
